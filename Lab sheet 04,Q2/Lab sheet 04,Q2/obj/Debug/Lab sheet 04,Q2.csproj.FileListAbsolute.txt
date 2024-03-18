@@ -1,0 +1,10 @@
+D:\C# module\Lab sheet\Lab sheet 04\Lab sheet 04,Q2\Lab sheet 04,Q2\bin\Debug\Lab sheet 04,Q2.exe.config
+D:\C# module\Lab sheet\Lab sheet 04\Lab sheet 04,Q2\Lab sheet 04,Q2\bin\Debug\Lab sheet 04,Q2.exe
+D:\C# module\Lab sheet\Lab sheet 04\Lab sheet 04,Q2\Lab sheet 04,Q2\bin\Debug\Lab sheet 04,Q2.pdb
+D:\C# module\Lab sheet\Lab sheet 04\Lab sheet 04,Q2\Lab sheet 04,Q2\obj\Debug\Lab sheet 04,Q2.csproj.AssemblyReference.cache
+D:\C# module\Lab sheet\Lab sheet 04\Lab sheet 04,Q2\Lab sheet 04,Q2\obj\Debug\Lab_sheet_04_Q2.Form1.resources
+D:\C# module\Lab sheet\Lab sheet 04\Lab sheet 04,Q2\Lab sheet 04,Q2\obj\Debug\Lab_sheet_04_Q2.Properties.Resources.resources
+D:\C# module\Lab sheet\Lab sheet 04\Lab sheet 04,Q2\Lab sheet 04,Q2\obj\Debug\Lab sheet 04,Q2.csproj.GenerateResource.cache
+D:\C# module\Lab sheet\Lab sheet 04\Lab sheet 04,Q2\Lab sheet 04,Q2\obj\Debug\Lab sheet 04,Q2.csproj.CoreCompileInputs.cache
+D:\C# module\Lab sheet\Lab sheet 04\Lab sheet 04,Q2\Lab sheet 04,Q2\obj\Debug\Lab sheet 04,Q2.exe
+D:\C# module\Lab sheet\Lab sheet 04\Lab sheet 04,Q2\Lab sheet 04,Q2\obj\Debug\Lab sheet 04,Q2.pdb
