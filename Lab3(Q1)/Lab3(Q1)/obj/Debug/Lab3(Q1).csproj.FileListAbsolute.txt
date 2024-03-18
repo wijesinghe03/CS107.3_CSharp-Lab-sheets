@@ -1,0 +1,2 @@
+C:\Users\IPK Computers\Desktop\Amanda\Lab3(Q1)\Lab3(Q1)\obj\Debug\Lab3(Q1).csproj.AssemblyReference.cache
+C:\Users\IPK Computers\Desktop\Amanda\Lab3(Q1)\Lab3(Q1)\obj\Debug\Lab3(Q1).csproj.CoreCompileInputs.cache
